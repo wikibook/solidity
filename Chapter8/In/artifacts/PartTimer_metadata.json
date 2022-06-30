@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "workPlace",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "workingHours",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Import/Ex8_4_2.sol": "PartTimer"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Import/Ex8_4_2.sol": {
+			"keccak256": "0xd9de95fea2ba6f66ae274dce2c144ecfbaf70c7eaa692bca3f354a7621801058",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://3316fba3505e831e0d19e2d7c54702cc6ec328ad8f52927b20acd43c17735ec7",
+				"dweb:/ipfs/QmNbPiPyS8p8KcqAaD6LxuiVvoRn2iXuF3guttGouGUUDY"
+			]
+		}
+	},
+	"version": 1
+}
